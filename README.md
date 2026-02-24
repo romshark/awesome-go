@@ -205,6 +205,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   - [Websites](#websites)
     - [Tutorials](#tutorials)
     - [Guided Learning](#guided-learning)
+  - [Contribution](#contribution)
+  - [License](#license)
 
 **[⬆ back to top](#contents)**
 
@@ -3025,6 +3027,7 @@ _Full stack web frameworks._
 - [Barf](https://github.com/opensaucerer/barf) - Basically, A Remarkable Framework for building JSON-based web APIs. It is entirely unobtrusive and re-invents no wheel. It is crafted such that getting started is easy and quick while being flexible enough for more complex use cases.
 - [Beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [Confetti Framework](https://confetti-framework.github.io/docs/) - Confetti is a Go web application framework with an expressive, elegant syntax. Confetti combines the elegance of Laravel and the simplicity of Go.
+- [Datapages](https://github.com/romshark/datapages) - A Templ + Datastar web frontend framework.
 - [Don](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
 - [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
 - [Fastschema](https://github.com/fastschema/fastschema) - A flexible Go web framework and Headless CMS.
